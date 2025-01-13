@@ -1,7 +1,1 @@
-
-
-
-<!---
-ibsukru/ibsukru is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Experienced software engineer skilled in JavaScript / TypeScript, React, with a proven track record of delivering high-quality web applications for industry-leading companies, ready to tackle new challenges and drive innovation in the tech world.

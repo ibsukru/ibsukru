@@ -1,3 +1,3 @@
-Experienced software engineer skilled in JavaScript / TypeScript, React, with a proven track record of delivering high-quality web applications for industry-leading companies, ready to tackle new challenges and drive innovation in the tech world.
-[FocusButton](https://focusbutton.com), [Vex](https://askvex.com)
+Experienced software engineer skilled in JavaScript / TypeScript, React, Node.js, with a proven track record of delivering high-quality applications, ready to tackle new challenges and drive innovation in the tech world.
+[Vex](https://askvex.com), [FocusButton](https://focusbutton.com)
 

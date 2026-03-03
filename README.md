@@ -1,3 +1,3 @@
 Creator of Chrry.ai, Multi-Tenant AI App Marketplace [Sushi 🍣](https://sushi.chrry.ai),
-[Chrry 🍒](https://tribe.chrry.ai)
+[Chrry 🍒](https://tribe.chrry.ai) [Vex 🤖](https://vex.chrry.ai)
 
